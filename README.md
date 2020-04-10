@@ -1,6 +1,7 @@
 # Real Time Sudoku Solver Project
 
 1/ Disclaimer:
+
 - I knew almost nothing about Image Processing and Machine Learning when I started this project. Inspired by an awesome Augmented Reality Sudoku Solver made by geaxgx1 (Link below), I decided to make one of my own.
 
 - Here is a list of the sources I used to build this project:
@@ -15,6 +16,8 @@
     + Pixel viewers to see what goes wrong with my code: https://csfieldguide.org.nz/en/interactives/pixel-viewer/
     + And of course: https://stackoverflow.com/, https://docs.opencv.org/2.4/doc/tutorials/tutorials.html
 - Although I needed to do a lot of research (Because I'm very new to this field), I still needed to do a LOT of work, and I'm very proud of what I have been able to create.
+
 2/ How does it work?
+
 - Please watch my Youtube video: YOUTUBE VIDEO LINK YOUTUBE VIDEO LINK
 - You will need: Python 3, OpenCV 4, Tensorflow >= 2.1.0 and Keras.
