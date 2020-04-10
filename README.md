@@ -27,4 +27,4 @@
 # 3/ How can you run it?
 
 - Just download all files, make sure you have the required installation of Python, OpenCV, Tensorflow and Keras, and run main.py
-- If you want to try training the Convolution Network on your own computer, you will need to download
+- If you want to try training the Convolution Network on your own computer, you will need to download Chars74K Dataset http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/, takes images 1-9 (We only need 1-9) and put them in folders "1", "2", ..., "9" respectively in the same directory with where you put all my Python files. After that, just run digitRecognition.py
