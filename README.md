@@ -6,7 +6,8 @@
 
 - Here is a list of the sources I used to build this project:
     + geaxgx1's Youtube video: https://www.youtube.com/watch?v=QR66rMS_ZfA&t=130s . It contains amazing, abstract instructions of how to build a Real Time Sudoku Solver (Please notice he didn't upload any code)
-    + Digit Recognition: I used the exact same architecture as the one proposed by F.Chollet as an example in his Keras library for the Hand-written Digit Recognition problem: https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
+    + Digit Recognition: I used the exact same Convolutional Neural Network (CNN) architecture as the one proposed by F.Chollet as an example in his Keras library for the Hand-written Digit Recognition problem: https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
+    + Data used to train the CNN: Chars74K for Computer Fonts, instead of MNIST for hand written digits http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
     + OpenCV Tutorial Playlist (47 videos, I watched 75% of them): https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
     + Sentdex's Deep Learning Playlist (11 videos): https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
     + How to improve Digit Recognition Accuracy: https://medium.com/@o.kroeger/tensorflow-mnist-and-your-own-handwritten-digits-4d1cd32bbab4
@@ -26,3 +27,4 @@
 # 3/ How can you run it?
 
 - Just download all files, make sure you have the required installation of Python, OpenCV, Tensorflow and Keras, and run main.py
+- If you want to try training the Convolution Network on your own computer, you will need to download
