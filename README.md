@@ -1,1 +1,1 @@
-# real_time_sudoku_solver
+# Real Time Sudoku Solver Project
