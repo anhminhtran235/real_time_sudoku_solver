@@ -21,3 +21,7 @@
 
 - Please watch my Youtube video: YOUTUBE VIDEO LINK YOUTUBE VIDEO LINK
 - You will need: Python 3, OpenCV 4, Tensorflow >= 2.1.0 and Keras.
+
+3/ How can you run it?
+
+- Just download all files, make sure you have the required installation of Python, OpenCV, Tensorflow and Keras, and run main.py
