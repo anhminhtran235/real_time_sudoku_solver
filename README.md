@@ -17,7 +17,7 @@
     + Find 4 corners from contour: https://www.programcreek.com/python/example/89417/cv2.arcLength
     + Pixel viewers to see what goes wrong with my code: https://csfieldguide.org.nz/en/interactives/pixel-viewer/
     + And of course: https://stackoverflow.com/, https://docs.opencv.org/2.4/doc/tutorials/tutorials.html
-- Although I needed to do a lot of research (Because I'm very new to this field), I still needed to do a LOT of work, and I'm very proud of what I have been able to create.
+- Although I had to do a lot of research (Because I'm very new to this field), I still needed to do a LOT of work, and I'm very proud of what I have been able to create.
 
 # 2/ How does it work?
 
