@@ -4,7 +4,7 @@
 
 - I knew almost nothing about Image Processing and Machine Learning when I started this project. Inspired by an awesome Augmented Reality Sudoku Solver made by geaxgx1 (Link below), I decided to make one of my own.
 
-- Here is a list of the sources I used to build this project:
+- Here is a list of sources I used to build this project:
     + geaxgx1's Youtube video: https://www.youtube.com/watch?v=QR66rMS_ZfA&t=130s . It contains amazing, abstract instructions of how to build a Real Time Sudoku Solver (Please notice he didn't upload any code)
     + Digit Recognition: I used the exact same Convolutional Neural Network (CNN) architecture as the one proposed by F.Chollet as an example in his Keras library for the Hand-written Digit Recognition problem: https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
     + Data used to train the CNN: Chars74K for Computer Fonts, instead of MNIST for hand written digits http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
