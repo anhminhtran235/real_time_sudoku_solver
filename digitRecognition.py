@@ -55,7 +55,7 @@ def shift_according_to_center_of_mass(img):
 
 batch_size = 128
 num_classes = 9
-epochs = 12
+epochs = 35
 
 # input image dimensions
 img_rows, img_cols = 28, 28
@@ -63,7 +63,7 @@ img_rows, img_cols = 28, 28
 DATADIR = "DigitImages"
 CATEGORIES = ["1","2","3","4","5","6","7","8","9"]
 
-# Read training Data (I stored it in folders named 1, 2,..., 9 in the same directory
+# Read training Data (I stored it in folders named 1, 2,..., 9 in the same directory)
 training_data = []
 def create_training_data():
     for category in CATEGORIES:
