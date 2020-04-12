@@ -2,7 +2,7 @@
 # Here's my Youtube video showing each individual steps I took to
 # detect a Sudoku board, extract and recognize digits, solve the puzzle
 # and print the result back to the video frame:
-# LINK TO MY DEMO YOUTUBE VIDEO: https://www.youtube.com/watch?v=_GvcxftQBec&feature=youtu.be
+# LINK TO MY DEMO YOUTUBE VIDEO: https://www.youtube.com/watch?v=uUtw6Syic6A
 
 # Disclaimer: I was a newbie to Image Processing and Machine Learning when
 # I built this project. A lot of my ideas, and codes, were learned from others
