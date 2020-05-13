@@ -1,4 +1,4 @@
-# Real Time Sudoku Solver Project
+# Real Time Sudoku Solver
 
 # 1/ Disclaimer:
 
