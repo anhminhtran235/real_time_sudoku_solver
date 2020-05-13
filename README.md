@@ -28,6 +28,6 @@
 - You don't need to train CNN on your own. I have trained a CNN model and saved the architecture in digitRecoginition.h5
 - If you want to try training the Convolution Network on your own computer, you will need to download Chars74K Dataset http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/, takes images 1-9 (We only need 1-9) and put them in folders "1", "2", ..., "9" respectively in the same directory with where you put all my Python files. After that, just run digitRecognition.py
 
-May 2020
+April 2020
 
 Created by Anh Minh Tran
